@@ -13,9 +13,9 @@ body {
   color: white;
   display: flex;
   align-items: center;
-  padding-left: 20px;
-  font-size: 24px;
-  font-weight: 1000;
+  padding-left: 16px;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .content {
